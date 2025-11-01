@@ -1,5 +1,0 @@
-[build]
-php = "8.2"
-
-[build.commands]
-install = "composer install --no-dev --optimize-autoloader"
